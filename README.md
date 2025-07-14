@@ -23,8 +23,12 @@
 ## 📫 Connect with Me
 
 <p align = "center">
-  <a href="pvag7076@gmail.com"></a>
-  <a href="https://github.com/Parina89"></a>
+  <a href="pvag7076@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Parina89">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
