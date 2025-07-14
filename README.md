@@ -1,6 +1,6 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Hi there 👋, I'm a Computer Engineering Student</h1>
+<h1 align="center">Hi there 👋, I'm a Computer Engineering Final Year Student</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,11 +19,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux,vscode,github" />
-
----
 
 
 ## 📫 Connect with Me
