@@ -14,8 +14,7 @@
 - 🎓 I’m currently pursuing **Computer Engineering**  
 - 🤖 I'm passionate about **Artificial Intelligence & Machine Learning**  
 - 🐍 I love programming in **Python**  
-- 🔬 I'm exploring **Deep Learning, Data Science, and Robotics**  
-- 🚀 Always ready to **collaborate on open-source projects**
+- 🔬 I'm exploring **Deep Learning, Data Science**  
 
 ---
 
