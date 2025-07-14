@@ -22,7 +22,7 @@
 
 ## 📫 Connect with Me
 
-<p>
+<p align = "center">
   <a href="pvag7076@gmail.com"></a>
   <a href="https://github.com/Parina89"></a>
 </p>
